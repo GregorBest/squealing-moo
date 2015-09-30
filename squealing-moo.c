@@ -2,6 +2,6 @@
 
 int main(void) {
     while (1) {
-        puts("SQUEAL!!! MOOO!!!");
+        puts("SQUEAL!!!\nMOOO!!!\n\n");
     }
 }
